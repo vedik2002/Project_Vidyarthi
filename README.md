@@ -26,24 +26,24 @@ Next, We would try to optimise this website with a ML Algorithm which shall allo
 
 #Salient Features
 -> The website will have a unique messaging platform wherein the registered students can send one-another ‘Peering’ requests, and therefore, they can become Peers. 
-This Peering functionality will help the students to connect, as well as compare their timetables, faculties as well as the courses and grades registered by the fellow Peers. 
+This Peering functionality will help the students to connect, as well as compare their timetables, faculties as well as the courses and grades registered by the fellow Peers. </br>
 -> Project Vidyarthi also comes packed with an indigenous FFCS Timetable Generator which will allow the students to create a dynamic and convenient timetable.
--> An important part of every student’s life is planning, and hence, we have also integrated the Google Calendar API for building an in-house Planner/Scheduler. This would also include a DA Deadline Reminder option
--> The Peers will also be encouraged to input data regarding the courses taken by them at the end of the semester. This would, with time, create a database of the numerous courses available and rank them on various criterias such as:	Difficulty, Availability, Popularity of the Subject, Credits, etc. 
--> The Peers will have access to the basic contact information of their respective faculties, such as the Cabin Number and Intercom Details.
--> As a fun and useful utility that has been scientifically proven to increase concentration and boost productivity, we also include a pomodoro timer.
--> The clubs will be incentivised to create a different type of Peer account, known as the ‘Club Handle’. These handles will have access to an exclusive page to post details of their upcoming events such as the itinerary, venue, meeting links for online events as well as the timeline.
-A student category Peer account can bookmark the interesting/registered events put forth by the Club Handles on this page and it would be automatically updated on the Calendar.
+-> An important part of every student’s life is planning, and hence, we have also integrated the Google Calendar API for building an in-house Planner/Scheduler. This would also include a DA Deadline Reminder option. </br>
+-> The Peers will also be encouraged to input data regarding the courses taken by them at the end of the semester. This would, with time, create a database of the numerous courses available and rank them on various criterias such as:	Difficulty, Availability, Popularity of the Subject, Credits, etc. </br> 
+-> The Peers will have access to the basic contact information of their respective faculties, such as the Cabin Number and Intercom Details. </br>
+-> As a fun and useful utility that has been scientifically proven to increase concentration and boost productivity, we also include a pomodoro timer. </br>
+-> The clubs will be incentivised to create a different type of Peer account, known as the ‘Club Handle’. These handles will have access to an exclusive page to post details of their upcoming events such as the itinerary, venue, meeting links for online events as well as the timeline. </br>
+A student category Peer account can bookmark the interesting/registered events put forth by the Club Handles on this page and it would be automatically updated on the Calendar. </br>
 
 #Impact
 This will help us create an integrated platform customised specifically for the various needs of a student. Project Vidyarthi will prove to boost productivity of the students as well as provide a holistic social media bubble for both Peers and Club Handles, tuned to be academically inclined as well as give opportunities to grow their knoweldge arsenal.
 
 #Built With
 The following is our technological arsenal:
-->Node.js
-->MongoDB
-->Bootstrap
-->JavaScript
+->Node.js </br>
+->MongoDB </br>
+->Bootstrap </br>
+->JavaScript </br>
 
 We are trying our best to implement the above in our project!
 
