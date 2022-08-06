@@ -1,0 +1,21 @@
+footer{
+    background-color: #A6D1E6;
+    text-align: center;
+    padding: 50px 5px;
+  }
+  .footerh3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.0rem;
+    color: gray;
+  }
+  .icons{
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .icons:hover{
+    color: gray;
+  }
+  .fa-copyright{
+    margin-right: 4px;
+  }
