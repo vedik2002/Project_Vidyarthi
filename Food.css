@@ -1,0 +1,220 @@
+/* NAVBAR */
+
+.logopic{
+    border-radius: 100%;
+    height: 63px;
+    width: 70px;
+    margin-left: 27px;
+
+}
+#navig{
+    background-color: bisque;
+}
+
+.navbar-toggler{
+    margin-right: 2rem;
+}
+.navbar::before{
+    content: "";
+    background-color: white;
+    position:absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index:   -1;
+    opacity: 0.4;
+}
+
+.collapse{
+    display: flex;
+    justify-content: center;
+}
+.navbar-nav{
+    margin-left: 40rem;
+}
+.nav-link:hover{
+    color: black;
+}
+
+/* HOME SECTION */
+
+#home{
+    display: flex;
+    flex-direction: column;
+    padding: 25px 22px;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+
+
+}
+
+/* .schedule{
+    width: 20%;
+    margin-top: 12%;
+} */
+
+.btn{
+    padding: 12px 5px;
+    margin-top: 25px;
+}
+
+
+#home h1{
+    font-family: 'Noto Serif Display',serif;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+}
+#home p{
+    font-family: 'Montserrat',san-serif;
+    color: black;
+    text-align: center;
+    width: 50%;
+}
+
+.h-primary{
+    font-size: 2.8rem;
+    padding: 15px;
+}
+
+/*
+SERVICES */
+
+.centernewh1{
+    font-family: 'Noto Serif Display',serif;
+    font-weight: bold;
+    padding: 60px 10px;
+    text-align: center;
+
+}
+.centerh1{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 600;
+    font-size: 1.8rem;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.div1{
+    text-align: center;
+}
+.services{
+    padding: 38px 55px;
+
+}
+.serviceimg{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*
+TESTIMONIALS */
+
+.testimonial-image{
+    height: 100px;
+    width: 100px;
+}
+
+#testimonials{
+    margin-top: 180px;
+    text-align: center;
+    text-shadow: 2rem;
+    color: black;
+    height: 600px;
+    padding: 30px 20px;
+    text-align: center;
+    background-color: bisque;
+    width: 100%;
+}
+.testimonialh1{
+    font-family: 'Noto Serif Display', serif;
+    padding:43px 5px;
+    margin-bottom: 20px;
+}
+.testimonial-image{
+    margin: 20px auto 20px auto;
+    border-radius: 100%;
+}
+.newslides{
+    font-family: 'Montserrat',sans-serif;
+}
+.carousel-control-prev-icon {
+    margin-left: 100px;
+    color: black;
+  }
+  .carousel-control-next-icon {
+    margin-right: 100px;
+    color: black;
+  }
+  .carousel-item {
+    padding: 5% 10%;
+  }
+
+  /* CONTACT US */
+
+  #contact-us{
+
+    padding-top: 180px;
+    text-align: center;
+  }
+
+  iframe{
+    box-shadow: 2rem black;
+  }
+
+
+  .contacth1{
+    font-family: 'Noto Serif Display',serif;
+  }
+  span{
+    font-family: 'Noto Serif Display',serif;
+  }
+  .fullblock{
+    margin: 100px 10px;
+    display: flex;
+    justify-content: center;
+    padding: 0 40px;
+  }
+  .theory{
+    width: auto;
+    margin-left: 122px;
+}
+
+  .contactmob{
+    margin-top: 100px;
+    padding: 20px 5px;
+    font-family: 'Montserrat',sans-serif;
+  }
+  .contactem{
+    padding: 15px 5px;
+    font-family: 'Montserrat',sans-serif;
+  }
+  .contactadd{
+    padding: 15px 5px;
+    font-family: 'Montserrat',sans-serif;
+  }
+
+  /* FOOTER */
+  footer{
+    background-color: #A6D1E6;
+    text-align: center;
+    padding: 50px 5px;
+  }
+  .footerh3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: gray;
+  }
+  .icons{
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .icons:hover{
+    color: gray;
+  }
