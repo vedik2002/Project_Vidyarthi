@@ -1,30 +1,30 @@
-# Project Vidyarthi
+## Project Vidyarthi
 
-#About our Project
+##About our Project:
 We at Project Vidyarthi are an ambitious team of four, second year students who wish to create an integrated academic assistant platform, which heeds to the many inconveniences that a VITian might face during their college life.
 
-#Inspiration
+##Inspiration:
 The purpose of our study is to research and identify intrinsic and extrinsic motivations but also their impact on problems that we, as students, face in our daily lives and hence, employ our personal experiences into developing a website that aims at alleviating these. The research method used in the quantitative study was the sample survey. This would be further used to create a database for ML Implications in the future iterations of this project.
 
-#What it does
+##What it does:
 This is a website that the team has built from scratch after careful consideration of all the major and minor inconviences as well as the unproductive problems that they are facing as college students and wish to alleviate these. The website is basically an Integrated Academic Assistant Platform, which shall provide all the necessary data to the students regarding the data.
 
-#How we built it
+##How we built it:
 We have build our project by employing various web development technologies, such as Bootstrap, Node.Js, MongoDB, JavaScript as well as a few essential implementations such as Google APIs for Calendar and more.
 
-#Challenges we ran into
+##Challenges we ran into:
 Main challenge that we are currently facing is the integration of APIs into the mainframe of our website.
 
-#Accomplishments that we're proud of
+##Accomplishments that we're proud of:
 We are really delighted that we are in the process of bringing our idea into action, This project has the potential to solve a real world problem and help the students- the backbone of society- in their endeavours by minimising the time they have to spend on various unefficient processes.
 
-#What we learned
+##What we learned:
 We got to know about numerous things like, working in a team with an unified motivation to make a student's life a little bit more stress-free, coding using various web-dev technologies, integrating APIs, etc.
 
-#What's next for Project Vidyarthi
+##What's next for Project Vidyarthi:
 Next, We would try to optimise this website with a ML Algorithm which shall allow the student to automatically generate the most apt FFCS Timetable keeping in consideration many criterions such as Difficulty of the Course, Availability, Credits and Popularity as some crude basis.
 
-#Salient Features
+##Salient Features:
 -> The website will have a unique messaging platform wherein the registered students can send one-another ‘Peering’ requests, and therefore, they can become Peers. 
 This Peering functionality will help the students to connect, as well as compare their timetables, faculties as well as the courses and grades registered by the fellow Peers. </br>
 -> Project Vidyarthi also comes packed with an indigenous FFCS Timetable Generator which will allow the students to create a dynamic and convenient timetable.
@@ -35,10 +35,10 @@ This Peering functionality will help the students to connect, as well as compare
 -> The clubs will be incentivised to create a different type of Peer account, known as the ‘Club Handle’. These handles will have access to an exclusive page to post details of their upcoming events such as the itinerary, venue, meeting links for online events as well as the timeline. </br>
 A student category Peer account can bookmark the interesting/registered events put forth by the Club Handles on this page and it would be automatically updated on the Calendar. </br>
 
-#Impact
+##Impact:
 This will help us create an integrated platform customised specifically for the various needs of a student. Project Vidyarthi will prove to boost productivity of the students as well as provide a holistic social media bubble for both Peers and Club Handles, tuned to be academically inclined as well as give opportunities to grow their knoweldge arsenal.
 
-#Built With
+##Built With:
 The following is our technological arsenal:
 ->Node.js </br>
 ->MongoDB </br>
